@@ -3,3 +3,5 @@
 Some text
 
 This is a new stuff!
+
+Checking if the configuration is changed.
