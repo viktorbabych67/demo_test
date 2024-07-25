@@ -1,6 +1,10 @@
 # Demo 2
 
-!!!!!!!PULL THIS PLEASE!!!!!
+Some text
+
+This is a new stuff!
+
+Checking if the configuration is changed.
 
 ## Feature branch
 
